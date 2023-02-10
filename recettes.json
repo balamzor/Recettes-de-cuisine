@@ -1,0 +1,80 @@
+{
+    "pancakes": [
+    "Les Pancakes",
+    [
+    "1 oeuf",
+    "1 cuillère à soupe de sucre",
+    "1 cuillère à soupe d'huile ou de beurre",
+    "1 cuillère à café de levure",
+    "150gr de farine",
+    "200ml de lait"
+    ],
+    [
+    "Mélanger les ingrédients secs.",
+    "Ajouter le lait.",
+    "Ajouter l'huile/beurre.",
+    "Bien mélanger.",
+    "Faire cuire dans une poele quelques minutes de chaque côté pour que ce soit doré mais pas brûlé."
+    ],
+    "imgs/pancake.jpg"
+    ],
+    "mugcake": [
+        "Le Mugcake",
+        [
+        "4 cuillères à soupe de farine",
+        "8 cuillères à soupe de lait",
+        "2 cuillères à soupe de sucre",
+        "4 cuillères à café d'huile",
+        "Un peu de levure",
+        "2 cuillères à soupe de cacao (optionnel)"
+        ],
+        [
+        "Mélanger les ingrédients secs.",
+        "Ajouter le lait.",
+        "Ajouter l'huile.",
+        "Bien mélanger.",
+        "Mettre au micro-onde puissance maximale pendant 1mn30 à 2mn."
+        ],
+        "./imgs/mugcake.jpg"
+        ],
+    "crumble": [
+        "Le Crumble aux poires (ça marche aussi avec des pommes)",
+        [
+        "30gr de beurre",
+        "60gr de farine",
+        "60gr de sucre",
+        "1 ou 2 belles poires",
+        "30gr de sucre",
+        "Un peu de beurre"
+        ],
+        [
+        "Mettre dans un bol le beurre (froid), le sucre & la farine pour le crumble.",
+        "Mélanger à la main jusqu'à la texture du crumble.",
+        "Etaler sur une plaque et mettre au four pas trop chaud jusqu'à la bonne texture et sortir du four avant caramélisation. Puis laisser refroidir.",
+        "Coupe les fruits en brunoise grossière, les mettre dans une poele froide avec le beurre et le sucre. Faire cuire jusqu'à caramélisation.",
+        "Déposer les fruits compoté au fond du récipent, recouvrir de crumble jusqu'au bord. Mettre au four en mode salamandre qqes minutes pour faire caraméliser le crumble."
+        ],
+        "./imgs/crumble.jpg"
+        ],
+    "carbonara": [
+        "Pâtes à la carbonara originales revisitées",
+        [
+        "Du bacon",
+        "Un oignon",
+        "De la crème épaisse",
+        "Sel",
+        "Poivre",
+        "Des pâtes"
+        ],
+        [
+        "Cuire le bacon (préférablement à partir d'une poele froide) jusqu'à ce qu'il soit doré et croustillant. Retirer et dégraisser une fois prêt.",
+        "Dans la même poele, sans enlever la graisse de cuisson, faire revenir les oignons à feu doux jusqu'à ce qu'ils soient translucides.",
+        "Une fois la poele sèche, utiliser un peu d'eau froide pour la déglacer. Faire réduire. Mettre la crème épaisse et gratter le fond de la poele pour répérer les sucs de cuisson (avec une spatule en bois). Commencer à faire réduire à feu doux.",
+        "Hacher le bacon grossièrement, puis l'ajouter à la sauce, ajouter un peu de beurre pour la rendre brillante et la laisser reposer hors du feu. C'est le moment d'ajuster sel & poivre.",
+        "Faire cuire les pâtes. La sauce ayant apaissie, inutile de bien égouter les pâtes, on les ajoute directement dans la sauce et on remue.",
+        "Si on veut faire un dressage un peu stylé, on dépose les pâtes au fond d'une assiette creuse, et on dépose de la sauce dessus (après l'avoir faite réchauffée et détendue un peu avec de l'eau de cuisson des pâtes)."
+        ],
+        "./imgs/carbonara.jpg"
+        ]
+}
+    
