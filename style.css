@@ -105,7 +105,7 @@ img {
 }
 .logo {
   position: absolute;
-  top: 10px;
+  top: 0px;
   border: unset;
   border-radius: unset;
   width: 200px;
