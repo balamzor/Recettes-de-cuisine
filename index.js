@@ -28,7 +28,7 @@ fetch('recettes.json')
 
         h1.innerHTML = titre;
         img.innerHTML = `<img src="${recette[3]}"/>`;
-        ingredientscontent.innerHTML = '<h2>Ingredients</h2>' + displayi;
+        ingredientscontent.innerHTML = '<h2>Ingrédients</h2>' + displayi;
         preparationcontent.innerHTML = '<h2>Préparation</h2>' + displaya;
       });
     });
